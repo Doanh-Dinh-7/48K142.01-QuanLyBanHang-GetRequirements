@@ -1,0 +1,3 @@
+AppDesktop: https://www.figma.com/file/frXVUSA3fIY38dAEMGrvts/Web?type=design&node-id=1112-269&mode=design&t=KNmpXmjQTpPdXjlB-0
+
+Web trên điện thoại: https://www.figma.com/file/Nd0zjOkjL5Ql9mmPF9gp0l/Ph%C3%A2n-t%C3%ADch?type=design&node-id=0-1&mode=design&t=DH7OJjx45eSSY27t-0
