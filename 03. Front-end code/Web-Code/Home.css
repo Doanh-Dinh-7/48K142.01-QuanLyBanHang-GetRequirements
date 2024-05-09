@@ -1,0 +1,112 @@
+.biji-1-icon2,
+.qun-l-t-mn-child65 {
+  position: absolute;
+  top: 135px;
+  left: 24px;
+  width: 345px;
+  height: 345px;
+}
+.biji-1-icon2 {
+  top: 263px;
+  left: 95px;
+  width: 204px;
+  height: 188px;
+  object-fit: cover;
+}
+.enjoy-your-coffee {
+  position: absolute;
+  top: 541.2px;
+  left: 83.7px;
+  width: 222.8px;
+  height: 87.1px;
+}
+.frame-child10 {
+  width: 408px;
+  position: relative;
+  height: 52px;
+}
+.qun-l-t-mn-inner3 {
+  position: absolute;
+  top: 0;
+  left: -5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.thu-h {
+  position: absolute;
+  top: 193px;
+  left: 60px;
+  display: inline-block;
+  width: 269px;
+  height: 53px;
+}
+.frame-child11 {
+  width: 36px;
+  position: relative;
+  height: 31px;
+}
+.group-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.qun-l-t-mn-inner4 {
+  position: absolute;
+  top: 13px;
+  left: 341px;
+  width: 36px;
+  height: 31px;
+}
+.button-1-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bt-u,
+.button-1,
+.button-1-child {
+  position: absolute;
+}
+.bt-u {
+  height: 77.46%;
+  width: 76.43%;
+  top: 11.27%;
+  left: 11.79%;
+  display: inline-block;
+}
+.button-1 {
+  top: 711px;
+  left: 56px;
+  width: 280px;
+  height: 71px;
+  font-size: 35px;
+  color: var(--color-dimgray-500);
+}
+.qun-l-t-mn6 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(
+    185.53deg,
+    #aa6530,
+    rgba(109, 59, 53, 0.58) 98.89%
+  );
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 50px;
+  color: #ea5a09;
+  font-family: var(--font-poppins);
+}
